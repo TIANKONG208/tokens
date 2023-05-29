@@ -1,0 +1,12 @@
+{
+  "name": "Amore cash",
+  "website": "www.amorecash.online",
+  "description": "The AmoreCash token stemmed from a profound love experience that taught a young painter the value of love. He incorporated his own insights into the concept of the token, hoping that everyone could feel the power of love and pass on this emotion for first love through AmoreCash token.
+101 first love stories are recounted in the blog.",
+  "explorer": "https://bscscan.com/token/0x41b257ecd40f749f594374888d58004a41db57e4",
+  "type": "BEP20",
+  "symbol": "ACH",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x41b257ecd40f749f594374888d58004a41db57e4"
+}
